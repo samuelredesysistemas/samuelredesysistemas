@@ -26,7 +26,7 @@ Adquirir experiencia práctica en sistemas y redes, completar mi formación ASIX
 
 ## 📫 Conecta conmigo
 
-- LinkedIn: [añadir enlace]
+- LinkedIn: https://www.linkedin.com/in/samuel-inaldo-alcantara-moreno-1677b0308/
 - YouTube: [añadir enlace]
 - TikTok: [añadir enlace]
 - Instagram: [añadir enlace]
