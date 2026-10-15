@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Samuel Alcántara
 
-<!--
-**samuelredesysistemas/samuelredesysistemas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Estudiante de ASIX | Sistemas, Redes, Cloud y Ciberseguridad**
 
-Here are some ideas to get you started:
+Estoy formándome en Administración de Sistemas Informáticos en Red (ASIX) en Barcelona y construyendo mi portafolio con laboratorios prácticos y proyectos técnicos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Áreas de aprendizaje
+
+- 🐧 **Linux:** administración de sistemas y terminal.
+- 🌐 **Redes:** TCP/IP, DNS, DHCP y resolución de incidencias.
+- 🖥️ **Sistemas:** Windows Server y Active Directory.
+- ☁️ **Cloud:** fundamentos de infraestructura y seguridad.
+- 🔐 **Ciberseguridad:** seguridad defensiva y buenas prácticas.
+- ⚙️ **Automatización:** scripting y documentación técnica.
+
+## 🧪 Mis proyectos
+
+- [Portafolio ASIX](https://github.com/samuelredesysistemas/portafolio-asix) — proyectos y laboratorios de sistemas y redes.
+- **Laboratorio DNS y DHCP** — configuración y pruebas de servicios de red.
+- **Windows Server y Active Directory** — administración de usuarios y permisos.
+- **Cloud segura** — proyecto futuro de infraestructura y control de acceso.
+
+## 🎯 Mi objetivo
+
+Adquirir experiencia práctica en sistemas y redes, completar mi formación ASIX y especializarme progresivamente en cloud y ciberseguridad.
+
+## 📫 Conecta conmigo
+
+- LinkedIn: [añadir enlace]
+- YouTube: [añadir enlace]
+- TikTok: [añadir enlace]
+- Instagram: [añadir enlace]
+
+*Aprendiendo, practicando y documentando cada paso.*
